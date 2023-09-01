@@ -1,3 +1,3 @@
 #pragma once
 
-#include "gpuinfo.h"
+#include "xpc/gpuinfo.h"
