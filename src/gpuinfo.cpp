@@ -1,4 +1,4 @@
-#include "gpuinfo.h"
+#include "../include/xpc/gpuinfo.h"
 
 GPUInfo::GPUInfo()
 {
