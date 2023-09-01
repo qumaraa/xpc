@@ -1,5 +1,5 @@
 ## XPC
-A small and convenient tool for getting information about GPU,CPU,RAM, written in C++ (Windows)
+A small and convenient tool for getting system information about GPU/CPU/RAM written in C++.
 
 [![Discussions](https://img.shields.io/github/license/dec0dOS/amazing-github-template.svg?style=flat-square)](https://github.com/ynwqmv/netprotocol/discussions/3)
 [![Network](https://img.shields.io/badge/XPC-0.1.0-red.svg)]()
